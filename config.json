@@ -1,0 +1,9 @@
+{
+    "spotify_path": "auto",
+    "block_ads": true,
+    "unlimited_skips": true,
+    "audio_quality": "very_high",
+    "offline_mode": true,
+    "auto_inject": true,
+    "start_minimized": false
+}
